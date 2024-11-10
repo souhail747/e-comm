@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{
+
+  font-family: "Open Sans", sans-serif;
+}
+.border{
+
+  border: 2px solid red;
+}
+.borderblue{
+  border: 5px solid blue;
+}
+.b:hover{
+  background-color: rgba(0, 0, 0, 0.25);
+}
+.a{
+padding: 7px !important;
+margin: 7px !important;
+border: 1px solid #ced4da !important;
+border-radius: 2px !important;
+}
+html {scroll-behavior: smooth !important; }
